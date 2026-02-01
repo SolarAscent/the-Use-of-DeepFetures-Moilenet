@@ -1,0 +1,15 @@
+# 忽略数据文件夹 (不要上传图片)
+data/
+train/
+test/
+
+# 忽略中间生成的特征文件 (体积大，且可重新生成)
+features/
+*.npy
+
+# 忽略 Python 缓存和环境
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+venv/
+*.pyc
