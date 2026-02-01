@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3041a0cb-8219-40e9-b250-9cd9737196ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Pytorch_Project2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Newsvm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newshallow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shallow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization.py" afterDir="false" />
-    </list>
+    <list default="true" id="3041a0cb-8219-40e9-b250-9cd9737196ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769845570823</updated>
       <workItem from="1769845571898" duration="638000" />
-      <workItem from="1769850953233" duration="11088000" />
+      <workItem from="1769850953233" duration="11480000" />
     </task>
     <servers />
   </component>
