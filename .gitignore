@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.autodl/
+
+data/
+data_split/
+*.zip
+*.rar
+
+.ipynb_checkpoints/
+.DS_Store
+
+*.png
+*.txt
